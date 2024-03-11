@@ -26,6 +26,16 @@ const App = () => {
         <option value="ditto">Ditto</option>
         <option value="pikachu">Pikachu</option>
         <option value="charmander">Charmander</option>
+        <option value="squirtle">Squirtle</option>
+        <option value="bulbasaur">Bulbasaur</option>
+        <option value="caterpie">Caterpie</option>
+        <option value="weedle">Weedle</option>
+        <option value="pidgey">Pidgey</option>
+        <option value="clefairy">Clefairy</option>
+        <option value="vulpix">Vulpix</option>
+        <option value="jigglypuff">Jigglypuff</option>
+        <option value="zubat">Zubat</option>
+        <option value="gloom">Gloom</option>
       </select>
       {pokemonData && (
         <div className="card">
